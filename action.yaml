@@ -1,0 +1,15 @@
+name: Obsidian Publish
+description: Publishes files to Obsidian
+branding:
+  icon: send
+  color: purple
+runs:
+  using: node12
+  main: dist/main.js
+inputs:
+  site:
+    required: true
+    description: Site ID
+  token:
+    required: true
+    description: API token

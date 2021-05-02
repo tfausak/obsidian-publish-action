@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@actions/core": "1.2.7"
+  },
+  "devDependencies": {
+    "webpack": "5.36.2",
+    "webpack-cli": "4.6.0"
+  },
+  "license": "ISC",
+  "private": true
+}
