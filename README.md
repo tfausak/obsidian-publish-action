@@ -1,5 +1,7 @@
 # Obsidian Publish Action
 
+:warning: This action is not maintained anymore.
+
 Publishes files to [Obsidian](https://obsidian.md).
 
 ## Inputs
